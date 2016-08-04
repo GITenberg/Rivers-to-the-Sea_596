@@ -1,0 +1,30 @@
+_repo: Rivers-to-the-Sea_596
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Teasdale, Sara
+    aliases:
+    - Filsinger, Sara
+    - Teasdale, S. (Sara)
+    birthdate: 1884
+    deathdate: 1933
+    gutenberg_agent_id: '223'
+    url: http://www.gutenberg.org/2009/agents/223
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Teasdale
+description: ''
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcsh 'Nature -- Poetry'
+- !lcsh 'Love poetry'
+- !lcc 'PS'
+- GITenberg
+title: Rivers to the Sea
+url: http://www.gutenberg.org/ebooks/596
